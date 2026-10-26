@@ -1,0 +1,31 @@
+SAFEGUARD AI - NEW COMPUTER SETUP
+
+1. Extract the ENTIRE ZIP into a folder you can edit. Do not run inside the ZIP.
+2. Install a currently supported Python release from https://www.python.org/downloads/.
+   The application code requires Python 3.10 or newer; Python is not bundled.
+3. Start the local app:
+   Windows: double-click Start-Windows.cmd.
+   macOS: in Terminal, run sh Start-macOS.command from this folder.
+   Linux: in a terminal, run sh start-linux.sh from this folder.
+   The dashboard opens at http://127.0.0.1:8765. Keep the terminal window open.
+4. For the floating assistant and reminders, load the extension folder as an
+   unpacked extension in Chrome or Edge. Approve the websites you want to use.
+   Connection is automatic; no pairing code is needed.
+
+No Codex, Node.js, pip packages, Docker, AWS account or AI-model key is required
+for the default application. Website checks require an Internet connection.
+Do not change port 8765 when using the bundled extension.
+
+For macOS Python installers, complete the Install Certificates.command step
+described by Python's installer so HTTPS website checks can verify certificates.
+
+Optional models, Zetaris, BlackIPS services and AWS require their own documented
+setup on the new device. They are not secretly tied to the original computer.
+The public package contains no personal history, subscriptions or credentials.
+
+Read docs/PORTABILITY.md for new-device setup, troubleshooting and private data
+migration. Read docs/GETTING_STARTED.md for application features and deployments.
+
+The package contains portable source code, not an installer with bundled Python.
+Windows relocation/startup was tested. macOS/Linux launchers are supplied, but
+those operating systems were not available for a native acceptance run.

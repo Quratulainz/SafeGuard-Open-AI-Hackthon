@@ -1,0 +1,6 @@
+connection.json
+*.pem
+*.key
+*.pub
+launches.json
+__pycache__/

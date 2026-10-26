@@ -1,0 +1,2 @@
+domain,source_url,observed_at,indicator,observation,record_kind,notes
+example.com,https://www.iana.org/help/example-domains,2026-10-25,documentation_domain,IANA maintains example.com for documentation purposes,curated_demo_observation,Manually curated demonstration record; not a website safety certification
