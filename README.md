@@ -1,13 +1,5 @@
 # SafeGuard AI
 
-**v0.3.2 English release — [Getting started and optional deployment](docs/GETTING_STARTED.md).**
-The default needs Python only, with automatic local connection. Cloud services
-and models are optional. See the [changelog](docs/CHANGELOG.md).
-
-**Using another computer:** extract the whole package and read
-[START_HERE.txt](START_HERE.txt) or [new-device setup and data migration](docs/PORTABILITY.md).
-Python must be installed; no runtime, account or private data is silently copied
-from the original computer.
 
 SafeGuard combines **ProofShield** (message and public-website checks) with
 **SubGuard** (subscription records and reminders), a local dashboard, and a
