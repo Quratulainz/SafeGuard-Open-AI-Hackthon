@@ -10,6 +10,13 @@ local evidence rules and SQLite history; it needs no AWS account, model, Docker,
 Node.js or API key. Website fetching still needs Internet access. An optional
 dated IP snapshot supports local reputation checks; missing or expired data is
 shown as unavailable and does not prevent message checks or subscription use.
+## Team & Contributions
+SafeGuard AI was built collaboratively by our team through joint brainstorming, UX design, and frontend/backend development, covering local rule engines, browser extensions, subscription management, and testing:
+
+* **LI CHENYANG : **Lead Developer & Core Integration** (https://github.com/FinalWeaponX)**
+* **Rimsha Kanwal**
+* **Uswa Ihsan**
+* **Ibrahim Shuaib Wyne**
 
 ## Start locally
 
